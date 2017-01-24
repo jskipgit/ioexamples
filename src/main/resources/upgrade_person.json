@@ -1,0 +1,20 @@
+{
+  "name": "John",
+  "lastName": "Skipper",
+  "age": 41,
+  "homeAddress": {
+    "street1": "2066 grandview",
+    "street2": "ave",
+    "city": "Orlando",
+    "postalCode": "32771-989",
+    "state": "Florida"
+  },
+  "workAddress": {
+    "street1": "123 Iron Yard St",
+    "street2": "ave",
+    "city": "Orlando",
+    "postalCode": "32801-989",
+    "state": "Florida"
+  }
+
+}
